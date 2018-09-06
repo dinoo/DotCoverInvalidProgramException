@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidApplicationExceptionDotCover", "InvalidApplicationExceptionDotCover\InvalidApplicationExceptionDotCover.csproj", "{EAEC0F75-78FD-4BA5-AFAC-8E1B1ABA8081}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{16795FDC-3488-47F5-B024-D895D5AE2000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EAEC0F75-78FD-4BA5-AFAC-8E1B1ABA8081}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAEC0F75-78FD-4BA5-AFAC-8E1B1ABA8081}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAEC0F75-78FD-4BA5-AFAC-8E1B1ABA8081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16795FDC-3488-47F5-B024-D895D5AE2000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16795FDC-3488-47F5-B024-D895D5AE2000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16795FDC-3488-47F5-B024-D895D5AE2000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16795FDC-3488-47F5-B024-D895D5AE2000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
