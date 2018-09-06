@@ -3,9 +3,10 @@
 dotCover get an _InvalidProgramException_ when executing the test method.
 
 Prerequisites
+
 | Software | Version |
 | -------- | ------- |
-| JetBrains dotCover Console Runner | *2018.1.2.* |
+| JetBrains dotCover Console Runner | **2018.1.2.** |
 | nunit3-console | 3.8.0 |
 
 Steps to reproduce exception
